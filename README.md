@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Martina - nice to e-meet you
 
-<!--
-**martinakraus/martinakraus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on an PokeDex App with image/video recognition, built with Angular, TensorFlow nd a .NET Core Backend
+- 🌱 I’m currently learning a lot about image/video recognition 😼
+- 👨🏼‍💻 I'm a self-employed trainer and consultant
+- 🅰️ Google Developer Expert for Angular (since 2019)
+- 💬 Ask me about all the things Angular or reactive Programming (RxJS)
+- 🅰️ I'm organizer of germans biggest Angular Conference [NG-DE](https://ng-de.org/)
+- 📫 How to reach me: [@MartinaKraus11](https://twitter.com/MartinaKraus11)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I can recall all dialogs in Disney's The lion King by heart 🦁
+- 🐈 I have a crazy cat called Lenny
