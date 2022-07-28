@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Martina - nice to e-meet you
 
-- 🔭 I’m currently working on an PokeDex App with image/video recognition, built with Angular, TensorFlow nd a .NET Core Backend
+- 🔭 I’m currently working on an PokeDex App with image/video recognition, built with Angular, TensorFlow and .NET Core
 - 🌱 I’m currently learning a lot about image/video recognition 😼
 - 👨🏼‍💻 I'm a self-employed trainer and consultant
 - 🅰️ Google Developer Expert for Angular (since 2019)
